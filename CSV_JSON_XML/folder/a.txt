@@ -1,0 +1,6 @@
+create a program that reads a librray.csv file which has name of the book, author, publisher and copies. Find the book with the max number of copies and least number of copies and writes its details into a json file 
+
+Read an xml file that called course.xml course instructor, course name, departments that it is been taught to and no. of student in each department. Find out which department has the max courses has been taught and find out which course has the least number of student.
+Find out the course which has least number of department
+
+

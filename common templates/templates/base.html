@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>
+            {% block title %}
+            Base Title 
+            {% endblock %}
+        </Title>
+        </title>
+    </head>
+    <body>
+        {% include 'common.html' %}
+        <main>
+            {% block content %}
+            Base content
+            {% endblock %}
+        </main>
+        <footer>
+            &copy; PESU 1 Sem, MCA
+        </footer>
+    </body>
+</html>

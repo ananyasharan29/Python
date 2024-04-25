@@ -1,0 +1,27 @@
+[
+    {
+        "name": "AAA",
+        "age": 30,
+        "salary": 86000,
+        "department": "IT"
+    },
+    {
+        "name": "BBB",
+        "age": 30,
+        "salary": 45000,
+        "department": "HR"
+    },
+    {
+        "name": "CCC",
+        "age": 45,
+        "salary": 150000,
+        "department": "Talent Acquisition"
+    },
+    {
+        "name": "DDD",
+        "age": 27,
+        "salary": 60000,
+        "department": "Management"
+    }
+
+]

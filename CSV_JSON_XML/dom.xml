@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<Employees>
+   <Employee>
+      <name>AAA</name>
+      <age>22</age>
+      <dept>IT</dept>
+      <salary>78000</salary>
+   </Employee>
+   <Employee>
+      <name>BBB</name>
+      <age>35</age>
+      <dept>Management</dept>
+      <salary>80000</salary>
+   </Employee>
+   <Employee>
+      <name>CCC</name>
+      <age>43</age>
+      <dept>HR</dept>
+      <salary>170000</salary>
+   </Employee>
+</Employees>

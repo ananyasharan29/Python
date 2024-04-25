@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <titlle>Macro Construct</titlle>
+    </head>
+    <body>
+        <h1>Products List</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for p in products %}
+                <tr>
+                    <td>{{p.name}}</td>
+                    <td>{{format_price(p.Price)}}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,20 @@
+{
+     "AAA":
+    {
+        "age": 30,
+        "Phone no.": 9672898687,
+        "Address":"12/34, 1st main road, BSK 3, Bangalore-569829" 
+    },
+     "BBB":
+     {
+        "age": 30,
+        "Phone no.": 9672223487,
+        "Address":"12/34, 1st main road, BSK 3, Bangalore-569826" 
+    },
+     "CCC":
+     {
+        "age": 45,
+        "Phone no.": 8428723487,
+        "Address":"12/34, 1st main road, BSK 3, Bangalore-569006"
+    }
+}

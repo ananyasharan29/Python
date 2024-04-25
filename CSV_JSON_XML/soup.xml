@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<students>
+<Student>
+<name>AAA</name>
+<sem>1</sem>
+<sec>A</sec>
+<marks>78</marks>
+</Student>
+<Student>
+<name>BBB</name>
+<sem>1</sem>
+<sec>C</sec>
+<marks>95</marks>
+</Student>
+<Student>
+<name>CCC</name>
+<sem>1</sem>
+<sec>B</sec>
+<marks>86</marks>
+</Student>
+</students>
